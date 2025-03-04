@@ -1,6 +1,6 @@
 # Major_Project_2
 
-**Workflow of the Code:**<b>
+**Workflow of the Code:**<br>
 Mount Google Drive:
 Accesses dataset files from Google Drive.
 
