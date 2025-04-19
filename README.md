@@ -1,4 +1,4 @@
-# Lung Cancer Detection: Theoretical Concepts
+# Lung Cancer Detection
 ## Core Approach
 This project implements a deep learning-based system for detecting and classifying lung cancer from CT scan images. It utilizes transfer learning with convolutional neural networks to identify four distinct conditions: normal lung tissue, adenocarcinoma, large cell carcinoma, and squamous cell carcinoma.
 Machine Learning Methodology
